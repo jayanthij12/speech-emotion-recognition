@@ -1,0 +1,58 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ==========================
+# Virtual Environment
+# ==========================
+.venv/
+venv/
+env/
+
+# ==========================
+# Jupyter
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# VS Code
+# ==========================
+.vscode/
+
+# ==========================
+# Streamlit Cache
+# ==========================
+.streamlit/
+
+# ==========================
+# Temporary Files
+# ==========================
+*.tmp
+*.log
+
+# ==========================
+# OS Files
+# ==========================
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Dataset (Very Large)
+# ==========================
+datasets/RAVDESS/
+
+# ==========================
+# Generated Outputs (Optional)
+# ==========================
+outputs/*.csv
+reports/prediction_results.csv
+reports/classification_report.txt
+reports/confusion_matrix.png
+
+# ==========================
+# Large Audio Files
+# ==========================
+*.wav
