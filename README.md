@@ -193,49 +193,10 @@ Architecture
 
 ---
 
-# 📊 Application Screenshots
+# Home
 
-## Home
+![Home](assets/application_screenshots/home_page.jpg)
 
-```
-assets/application_screenshots/home_page.jpg
-```
-
-## Prediction Result
-
-```
-assets/application_screenshots/cnn/01.jpg
-```
-
-```
-assets/application_screenshots/cnn/02.jpg
-```
-
-```
-assets/application_screenshots/cnn/03.jpg
-```
-
-```
-assets/application_screenshots/cnn/04.jpg
-```
-
-```
-assets/application_screenshots/random_forest/01.jpg
-```
-
-```
-assets/application_screenshots/random_forest/02.jpg
-```
-
-```
-assets/application_screenshots/random_forest/03.jpg
-```
-
-```
-assets/application_screenshots/random_forest/04.jpg
-```
-
----
 
 # 📁 Project Structure
 
