@@ -196,10 +196,7 @@ Architecture
 # 📊 Application Screenshots
 
 ## Home
-
-```
-assets/application_screenshots/home_page.jpg
-```
+![Home](assets/application_screenshots/home_page.jpg)
 
 ## Prediction Result
 
